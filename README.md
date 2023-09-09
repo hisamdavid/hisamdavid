@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisamdavid&label=Profile%20views&color=0e75b6&style=flat" alt="hisamdavid" /> </p>
 
+![giphy](https://github.com/hisamdavid/hisamdavid/assets/48217324/298fd3fa-4510-4dc7-b7e6-533fd6d6960b)
 
 
 - 🔭 I’m currently working on **a rat for my CS degree**
